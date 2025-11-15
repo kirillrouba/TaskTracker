@@ -1,4 +1,4 @@
-# Java Console To-Do List
+# Java Console Task Tracker
 
 Простое консольное приложение для управления задачами на Java.
 
